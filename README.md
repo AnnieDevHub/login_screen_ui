@@ -1,4 +1,4 @@
-# Flutter Login App
+# Login_ui
 A simple Flutter application featuring a clean login UI and navigation to a home screen. Developed as part of an internship task to practice Flutter basics, UI building, and project deployment on GitHub.
 
 Features
